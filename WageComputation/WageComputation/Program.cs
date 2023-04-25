@@ -6,6 +6,7 @@
         {
             EmployeeCheck obj = new EmployeeCheck();
             obj.CheckEmployee();
+            Console.ReadKey();
         }
     }
 }
